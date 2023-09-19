@@ -1,5 +1,5 @@
 ---
-title: Intraday Price Change in BTC
+title: Intraday Price Change of BTC
 author: Joomong
 date: 2023-09-13 11:33:00 +0900
 categories: [Blogging, HFT]
